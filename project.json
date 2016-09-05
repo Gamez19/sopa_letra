@@ -1,0 +1,23 @@
+{
+  "title": "Sopa",
+  "author": "Edwin",
+  "date": "4/09/16",
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "sopa.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "files": [
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "sopa.jclic",
+    "sopa.jclic.js"
+  ]
+}
